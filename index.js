@@ -1,4 +1,4 @@
-const employee = {name: "Anthony", streetAddress: "1216 main"}
+const employee = {name: "Tony", streetAddress: "1216 State St."}
 
 function updateEmployeeWithKeyAndValue(employee, key, value) {
   const newObj = {...employee};
